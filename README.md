@@ -22,5 +22,17 @@ Here are some highlights of the dashboard's features and functionalities:
 
 Tools Used: PowerBI,Figma and MySQL.
 
+Key Insights :
+
+• In 2018 AtliQ Company has 345.12% sales growth, then after decline in sales in 2019 with -18.77% drop & significantly drop also in 2020 with -15.32%.
+• As Compared to 2019 the profit will drop in 2020 with -65.64%.
+• Electricalsara Stores is the top customer with 41.97% sales contribution and 37.75 % profit contribution.
+• AtliQ has -2.01% loss by Electricalslance Stores.
+• Delhi NCR is the market leader with 52.76% sales contribution and 48.48% profit contribution.
+• Kanpur & Bengaluru are two market's is in loss.
+• North and South zones are not getting much sales by E-Commerce customers.
+• South zone has the least sale has only ₹ 45M and Central zone has good sales is ₹ 264M.
+• North zone has maximum sales is ₹ 675M with contribution of Delhi NCR has ₹ 519M.
+
 I utilized PowerBI, an industry-leading business intelligence tool, to build a robust and visually appealing dashboard. MySQL, a reliable and scalable database management system, was employed for efficient data storage and retrieval.
 I am immensely proud of the outcome achieved through this project, as it enables Atlik Hardware Store to make data-driven decisions and optimize their business operations. 
